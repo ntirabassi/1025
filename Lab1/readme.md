@@ -1,7 +1,7 @@
 ## Natalie Tirabassi / 9/6/21
 
 ## Executive Summary
-
+During the course of lab 1, I was able to explore different forms of networking on the internet, as well as introduce myself to this class and familiarize myself with using GitHub. Information systems, client-server architecture, and cloud computing were all terms that were new to me, but after this lab, I now feel that I have a better understanding of them. It was interesting to see how intricate all the different parts of technology are and how they all come together in a massive online networking  system.
 
 ## Information System Components
 
