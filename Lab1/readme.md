@@ -6,7 +6,7 @@ The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history
 
 ## Information System Components
 
-
+The five components of an information system are hardware, software, data, people and process. The first three are more technical, while the latter two lean towards networking and communication. Hardware is actual physical technology, such as computers, keyboards, disk drives and flash drives, whereas software is the set of instructions that tells the hardware what to do. Operating systems such as Windows, Android, or Apple are all examples of software. Data is also non-physical: a collection of facts that are collected together for reference or statistics, such as names, addresses, prices, and costs. 
 ## GitHub
 ### Client - Server Architecture
 ### Cloud Computing
