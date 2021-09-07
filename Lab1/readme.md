@@ -1,8 +1,7 @@
 ## Natalie Tirabassi / 9/6/21
 
 ## Executive Summary
-This is an example, please delete and create your own professional summary:
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+Lab 1 served as an excellent introduction to the IT1025 course and also introduced me to topics and forms of technology that I was previously unaware of. 
 
 ## Information System Components
 
@@ -14,7 +13,7 @@ Client-Server Architecture is a form of networking that allows users to connect 
 
 ### Cloud Computing
 
-Cloud computing provides users with mobile access to data and applications, making the PC more of a part of the communications channel rather than a repository of programs and information. 
+Cloud computing provides users with mobile access to data and applications, making the PC more of a part of the communications channel rather than a repository of programs and information. It is the use of hardware or software off-site that is accessed over networks for computing needs. Instead of hosting systems or applications on a hard drive, users can host virtual/online servers that connect to their computers through secure networks. Google apps like Gmail and Google Drive are examples of this, as well as Dropbox, Microsoft Office, and Amazon Web Services.
 
 ## Conclusion
 This is an example, please delete and create your own professional summary:
