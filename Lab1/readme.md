@@ -1,7 +1,7 @@
 ## Natalie Tirabassi / 9/6/21
 
 ## Executive Summary
-Lab 1 served as an excellent introduction to the IT1025 course and also introduced me to topics and forms of technology that I was previously unaware of. 
+
 
 ## Information System Components
 
@@ -16,6 +16,6 @@ Client-Server Architecture is a form of networking that allows users to connect 
 Cloud computing provides users with mobile access to data and applications, making the PC more of a part of the communications channel rather than a repository of programs and information. It is the use of hardware or software off-site that is accessed over networks for computing needs. Instead of hosting systems or applications on a hard drive, users can host virtual/online servers that connect to their computers through secure networks. Google apps like Gmail and Google Drive are examples of this, as well as Dropbox, Microsoft Office, and Amazon Web Services.
 
 ## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
+Lab 1 served as an excellent introduction to the IT1025 course and also introduced me to topics and forms of technology that I was previously unaware of. It was interesting to learn about how technology connects people from every part of the world in different ways, and how advanced systems have made it possible for businesses and individual users to navigate and accomplish tasks on the interests. Most of terms were new to me, and I took the time to further research each term in order to familiarize myself with them for the class. I had never used GitHub before, so it took a little time to grow accustomed to it, but now I am excited to further explore it as we continue forward.
+
 
