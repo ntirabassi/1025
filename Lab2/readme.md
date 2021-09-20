@@ -1,7 +1,7 @@
 ## Natalie Tirabassi / 9/20/21
 
 ## Executive Summary 
-A computer is made up of many complex parts that form a cohesive and intelligent machine. During this lab, I was able to explore just how many different pieces of hardware there are and how they function. The input and output process is very similiar to things we do in everyday life, and binary number systems seemed complex at first, but actually turned out to be quite straightforward. Color also an important role in computers - the wrong shade can easily make a user's computer experience unpleasant and unproductive. It was interesting to see the full extent of a motherboard and how all the components work together to move data around.
+A computer is made up of many complex parts that form a cohesive and intelligent machine. During this lab, I was able to explore just how many different pieces of hardware there are and how they function. The input and output process is very similiar to things we do in everyday life, and binary number systems seemed complex at first, but actually turned out to be quite straightforward. Color also plays an important role in computers - the wrong shade can easily make a user's computer experience unpleasant and unproductive. It was interesting to see the full extent of a motherboard and how all the components work together to move data around.
 
 ## Hardware
 ### Hard Drives and Memory
