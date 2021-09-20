@@ -25,7 +25,9 @@ The Institute of Electrical and Electronics Engineers (IEEE) is an organization 
 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
+A binary number system is calculated by powers of 2, and decimal system is a base 10 system. A hexidecimal, which is used to calculating higher numbers, uses a base 16 number system. It not only uses numbers 0-9 but also six letters: A-F. The computer uses binary to store data, not only becuase it's reliable, but because computers only understand 1s and 0s.
 ### Hexadecimal Color Representation
+The color #ab00ff
 
 ## Conclusion
 Include your conclusion here...
