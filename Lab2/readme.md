@@ -15,7 +15,9 @@ In order for a program or data to run on a computer, it needs to be entered into
 ### ALU and the Control Unit
 The ALU (Arithmetic Logic Unit) is under the command of the control unit, and it performs all the mathematical operations inside the CPU. The control unit receives the instructions from the RAM, and then tells the ALU what type of operation to perform. The ALU performs the operation and then outputs the answer. The control unit also turns on the ALU's register using a set wire. The register is used to store numbers temporarily. The control unit turns on the enable wire to output whatever number is inside the register.
 ### CPU, Input & Output
-The input 
+The input converts physical unit to binary information. The input at a gas station would be the form of payment in order to receive the gas - either swiping the card or giving cash to the cashier. The station now has the amount of gas to put in the car. The user also inputs the type of gas they would like to receive.
+The CPU is the central process unit that calculates information. At a gas station it would be the station itself. It calculates the amount of gas, the type of gas, and it also processes the payment. It also gives out instructions to the user.
+The output converts information to physical output. Everything that the station calculated now comes out in the form of gas and goes into the car, completing the process. 
 ### Logic Gates 
 ### IEEE - Ethically Aligned Design
 
