@@ -19,7 +19,9 @@ The input converts physical unit to binary information. The input at a gas stati
 The CPU is the central process unit that calculates information. At a gas station it would be the station itself. It calculates the amount of gas, the type of gas, and it also processes the payment. It also gives out instructions to the user.
 The output converts information to physical output. Everything that the station calculated now comes out in the form of gas and goes into the car, completing the process. 
 ### Logic Gates 
+A logic gate is a electric current with two inputs and one output. For an AND gate, if both inputs are switched on (carry 1's), the output will be 1 as well. For an OR gate, if either input is switched on, the output will be one. A truth table shows the output you can get (1 or 0) for every possible input. The difference between an AND and an OR truth table is that there are more chances for a 1 output with an OR gate than an AND gate.
 ### IEEE - Ethically Aligned Design
+The Institute of Electrical and Electronics Engineers (IEEE) is an organization dedicated to advancing innovation and technological excellence for the benefit of humanity. It is designed to serve professionals involved in electrical, electronic, and computing fields. They aim to foster awareness on ethical issues and promote ethical behavior. Their code of ethics include the safety, health, and welfare of the public, avoiding unlawful conduct, offering honest criticism, and treating all people fairly and with respect, among others. The organization prioritizes ethical considerations so that advancements in technology are made for the benefit of humanity and not just for profit.
 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
