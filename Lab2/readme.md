@@ -13,7 +13,9 @@ Although not a disk, solid state drives (SSD) replace the traditional hard disk 
 In order for a program or data to run on a computer, it needs to be entered into the RAM first. If the memory is too low, it might not be able to hold all the data that the CPU needs. Some data will then have to be kept back in the slow hard drive, making the data wait to be passed through. When this happens, it slows down the computer. With increased RAM, more data can be loaded onto the faster RAM, and the result is a faster performing computer.
 64 or 32 bit data path refers to the number of bits of data that are transferred in one clock cycle, and the more bits there are, the faster the computer is. 64 bit means that the DIMM can transfer 64 bits of data at a time. SIMMs, which are older model RAMs, can only transfer 32 bit data paths.
 ### ALU and the Control Unit
+The ALU (Arithmetic Logic Unit) is under the command of the control unit, and it performs all the mathematical operations inside the CPU. The control unit receives the instructions from the RAM, and then tells the ALU what type of operation to perform. The ALU performs the operation and then outputs the answer. The control unit also turns on the ALU's register using a set wire. The register is used to store numbers temporarily. The control unit turns on the enable wire to output whatever number is inside the register.
 ### CPU, Input & Output
+The input 
 ### Logic Gates 
 ### IEEE - Ethically Aligned Design
 
