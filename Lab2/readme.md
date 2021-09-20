@@ -1,7 +1,7 @@
 ## Natalie Tirabassi / 9/20/21
 
 ## Executive Summary 
-A computer is made up of many complex parts that all work together to form a cohesive and intelligent machine. During this lab, I was able to explore just how many different pieces of hardware there are and how they function. Binary number systems seemed complex at first, but actually turned out to be quite straightforward. 
+A computer is made up of many complex parts that form a cohesive and intelligent machine. During this lab, I was able to explore just how many different pieces of hardware there are and how they function. The input and output process is very similiar to things we do in everyday life, and binary number systems seemed complex at first, but actually turned out to be quite straightforward. Color also an important role in computers - the wrong shade can easily make a user's computer experience unpleasant and unproductive. It was interesting to see the full extent of a motherboard and how all the components work together to move data around.
 
 ## Hardware
 ### Hard Drives and Memory
@@ -30,4 +30,4 @@ A binary number system is calculated by powers of 2, and a  decimal system is a 
 The color #ab00ff can described as a mostly pure violet, being 67.1% red, 0% green, and 100% blue. It has a RGB value of R=171, G=0, and B=255, while its CMYK value is C=0.33, M=1, Y=0, and K=0. When choosing a color for a website, readability issures should considered, as well as contrast against black and white. Using a color grade system can help in choosing an accessible color pairing. #ab00ff is not a websafe color, and it is also too highly saturated, which can harm senstive eyes. It varies greatly for colorblind users, and is too bright and distracting for a website. Therefore, this color would be considered problematic, and other alternatives should be found.
 
 ## Conclusion
-Include your conclusion here...
+Amazing and complicated, computers have been improved upon greatly in a just a few short decades. Faster, more efficient, and more compact, these machines are at our fingertips and command every moment of the day - whether through our phones, TVs, or even refridgerators. These basic fundamentals and parts make up all of these things which we take for granted every day. This lab allowed me to truly appreciate the complexity and invention of computers. Last but not least, the IEEE reminded me of the fact that computers not only here to make life easier for us, but to also to improve the ethical side as well - to remind us that computer are to be used for good and to make us all better people as we continue advancing forward at such a high rate.
