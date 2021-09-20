@@ -25,9 +25,9 @@ The Institute of Electrical and Electronics Engineers (IEEE) is an organization 
 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
-A binary number system is calculated by powers of 2, and decimal system is a base 10 system. A hexidecimal, which is used to calculating higher numbers, uses a base 16 number system. It not only uses numbers 0-9 but also six letters: A-F. The computer uses binary to store data, not only becuase it's reliable, but because computers only understand 1s and 0s.
+A binary number system is calculated by powers of 2, and a  decimal system is a base 10 system. A hexidecimal system, which is used to calculating higher numbers, uses a base 16 number system. It not only uses numbers 0-9 but also six letters: A-F. The computer uses binary to store data, not only becuase it's reliable, but because computers only understand 1s and 0s.
 ### Hexadecimal Color Representation
-The color #ab00ff
+The color #ab00ff can described as a mostly pure violet, being 67.1% red, 0% green, and 100% blue. It has a RGB value of R=171, G=0, and B=255, while its CMYK value is C=0.33, M=1, Y=0, and K=O. When choosing a color for a website, readability issures should considered, as well as contrast against black and white. Using a color grade system can help in choosing an accessible color pairing. #ab00ff is not a websafe color, and it is also too highly saturated, which can harm senstive eyes. It varies greatly for colorblind users, and is too bright and distracting for a website. Therefore, this color would be considered problematic, and other alternatives should be found.
 
 ## Conclusion
 Include your conclusion here...
