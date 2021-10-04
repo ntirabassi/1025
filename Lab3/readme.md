@@ -1,7 +1,7 @@
 ## Natalie Tirabassi / 10/4/21
 
 ## Executive Summary 
-Include your executive summary here...
+Software plays an important part in making sure a computer functions and runs smoothly. There are many differents types of software that are capable of doing many things, and behind all of that is the work of programmers, software engineers, and other IT technicians. During this lab I was able to learn about all the technologies that are put in place in order to ensure that everything on our computers run smoothly, and also get taste of Python. Thanks to its simplisitic form, learning the basics were easy and I am looking forward to delving even deeper into the world of programming. I also learned about the many types of fields and occupations that computers have created. Choosing the right career can be tricky and frightening, but now I have a more concrete idea and feel confident in my decision, especially with the abundant resources available to me. 
 
 ## Software
 Software is the set of instructions that tells the hardware what to do. It is created through the process of programming, and without it, hardware would not be functional.
@@ -33,8 +33,9 @@ CompTIA Cybersecurity Analyst is an IT workforce certification that applies beha
 ### Certificates and Degrees
 The Programming and Development Certificate is of interest to me because one day I hope to become a software developer. This a post-degree program at Tri-C that is designed to prepare students for this type of career. Students learn how to operate in a team environment, apply knowledge of programming, web maintenance, operating systems, networking and security to install, troubleshoot, and provide support for technological organizational systems, among other important skills.
 ### Co-ops / Internships
-A co-op opportunity gives students an advantage by providing them with hands-on learning experience through jobs related to their field. It allows a student to use what they learned in the classroom and apply it to real-world situations. It is also vital to a student's marketablility. In order to become co-op ready, a student must fulfill the eligibility requirements: be currently enrolled at Tri-C, complete 12 credit hours of coursework, and have a sufficient GPA. They will then complete the Application of Interest, participate in a co-op orientation, and upload their resume for final revisions and approval by a Career Coach.
+A co-op opportunity gives students an advantage by providing them with hands-on learning experience through jobs related to their field. It allows a student to use what they learned in the classroom and apply it to real-world situations. It is also vital to a student's marketability. In order to become co-op ready, a student must fulfill the eligibility requirements: be currently enrolled at Tri-C, complete 12 credit hours of coursework, and have a sufficient GPA. They will then complete the Application of Interest, participate in a co-op orientation, and upload their resume for final revisions and approval by a Career Coach.
 ### Industry Associations / Student Organizations
+The mission of the Collegiate Cyber Defense Competition is to provide institutions with an information assurance curriculum in a competitive environment to assess the student's depth of understanding and competency in managing challenges related to business information systems. A membership to the Cybersecurity Club would be benefical because they participate in this competition. It allows students to apply the skills they have learned in their coursework, and also participate in teams and learn the value of teamwork, ethics and communication. It also provides a healthy competitive environment to push students to perform their best.
 
 ## Conclusion
 
