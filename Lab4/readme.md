@@ -18,10 +18,11 @@ The three most common data types are integers, floating-point numbers, and strin
 ### Raster vs. Vector Graphics
 Small images lose their qulaity when enlarged, due to thousands of tiny pixels. This type of image is raster. When raster images are viewed at their original size, or smaller, the pixels are invisible. They become more apparent when you zoom in or increase the sie of the image. A raster image would be most appropriate used as a photo on a website that doesn't need to be particularly large, such as a profile photo. The difference in vector graphics is that they can be made into any size without losing quality. This is because they rendered using a special form of geometry, rather than pixels. Vectors are best used as large graphics or logos that can easily be resized as needed.
 ### Lossless vs. Lossy Compression
-
+Lossless image compression means all the data from the original file is preserved, whereas lossy compression removes some data from the original file and saves the image with a reduced file size. Developers and designers must decide how much of the data to disregard by setting the image compression rate. For larger, better quality files, a developer might choose lossless compression, but if they need a smaller, more condensed file size, lossy compression would work best.
 ### File Formats
+GIF stands for Graphics Interchange Format. It supports up to 8 bits per pixel, and allows for animated images, unlike jpegs and pngs. For simple graphics like logos or line drawings, GIF formats work best. JPEG (Joint Photographic Experts Group) is an image format that uses lossless compression to create smaller file sizes. It is best used for photos with subtle shifts in color without any sharp contrasts. PNGs are also lossless, but are the opposite of JPEGs, being better suited for photos with high contrast. Like GIFs, PNGs are also useful for line art, as well as illustrations. However, it is the best option out of the three for transparent images, especially those that require partial transparency.
 ### File Properties
-
+File properties are useful because it allows a user to see all the exact information of a file, such as the type, the size, the location, and when it was created, modified, and accessed. There is also a tab for security where you can edit permission for the file, such as reading, editing, and having full control. The details tab goes more in-depth into the properties, and the previous versions tab is helpful if you ever want to restore a previous version of that file.
 ## Conclusion
 
 Include your professional conclusion here...
