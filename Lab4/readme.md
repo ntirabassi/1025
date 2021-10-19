@@ -1,7 +1,7 @@
 ## Natalie Tirabassi / 10/16/21
 
 ## Executive Summary 
-Include your executive summary here...
+Delving deeper into the world of computers and programming, during this lab I got practice using the command prompt, working in Python, and creating graphics. It was interesting learning how to create a file folder through the command prompt when I am used to doing it in the file manager, but the command prompt is fairly straightforward and quite useful because you can accomplish nearly everything through it. The many different types of codes in Python seem complicated, but with lots of practice it is easy to get the hang of. Finally, the graphics section was very easy for me as I have taken a few graphic design classes before, but it was good to revisit that and practice creating a vector image, which has always been one of my weak points.
 
 ## Python IDLE
 Both the shell and the file editor in Python IDLE look very similiar; however, there are a few differences. The interactive shell is what opens at startup and is useful for running Python instructions one at a time. The file editor is more useful for writing entire Python programs. It lets a user type in various instructions, save the file, and run the program. The way a user can tell the shell and file editor apart is that the shell window will have the ">>>" prompt on the left side, whereas the file editor will not.
@@ -25,4 +25,4 @@ GIF stands for Graphics Interchange Format. It supports up to 8 bits per pixel, 
 File properties are useful because it allows a user to see all the exact information of a file, such as the type, the size, the location, and when it was created, modified, and accessed. There is also a tab for security where you can edit permission for the file, such as reading, editing, and having full control. The details tab goes more in-depth into the properties, and the previous versions tab is helpful if you ever want to restore a previous version of that file.
 ## Conclusion
 
-Include your professional conclusion here...
+In conclusion, the more technical part of this lab was extremely helpful because I got to practice firsthand everything that I have been learning about in this class. Creating a file folder in the commond prompt and a mini program in Python seem unimpressive, but it was exciting to see the commands I inputted come to life. The only major problem I ran into was that Vectr is difficult to use - the commands aren't very user-friendly, it lags, and the tools are inconsistent and hard to use. Maybe it is because I am so accustomed to working in Photoshop and Illustrator, but it took me quite a while to get the hang of it. However, this lab was good practice for me to work in different programs, and come up with ways to problem-solve when things get difficult.
