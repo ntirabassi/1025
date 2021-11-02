@@ -1,10 +1,10 @@
-## Your Name / Date
+## Natalie Tirabassi / 11/2/2021
 
 ## Executive Summary 
-Include your executive summary here...
+This lab taught me about the importance of cybersecurity and all the different components that go into a network to make it secure, from IP Addresses to routers and hubs. As a new user to Lucidchart, I was able to easily adapt to its simple design and create two different flowcharts. The different topologies of networks was also interesting to me because when setting up a network, it is up to you to decide what the best arrangement is for the service you need. The security triad is also important because it sets a standard for devices to follow to ensure the security of its users and helps with its reliability. When using a product, we should be able to trust that our information is secure and reliable, as well as having a strong connection, and this lab showed me the many different ways that this can be accomplished.
 
 ## Lucidchart
-Lucidchart is designed in order for users to create flowcharts to specific steps in a process. I found the website inviting and easy to use. The editing tools are extremely user-friendly with options for colors, sizes, fonts, and many different types of shapes to use in your flowchart. There is also many templates from users to choose from if they don’t want to create one from scratch. I especially liked how i was able to click and drag arrows out from the different shapes to connect with others. Their tutorials are short and straight to point, and overall my experience with Lucidchart was positive.
+Lucidchart is designed in order for users to create flowcharts to specific steps in a process. I found the website inviting and easy to use. The editing tools are extremely user-friendly with options for colors, sizes, fonts, and many different types of shapes to use in your flowchart. There is also many templates from users to choose from if they don’t want to create one from scratch. I especially liked how I was able to click and drag arrows out from the different shapes to connect with others. Their tutorials are short and straight to point, and overall my experience with Lucidchart was positive.
 ## Introduction to Networking
 
 ### Data Transmission
@@ -52,7 +52,7 @@ Public key encryption is important because it ensures security and confidentiali
 #### Encryption
 A Caesar cipher is a simple method of encoding messages by using a substation method of shifting over letters of the alphabet. The message “cryptology is a growing field” is encoded into “dszqupmphz jt b hspxjoh gifme” because each letter has been shifted over once. 
 #### Frequency Fingerprint
-As I type a message, the frequency fingerprint encoder shows the most to the least common letters in the message. This is helpful because it shows me what letters I tend to type the most. The chart shows what the most common letters are in the English language, so in a different language it would show a different chart of the common letters from that language, such as x in Mandarin beingT much more common that it is in English.
+As I type a message, the frequency fingerprint encoder shows the most to the least common letters in the message. This is helpful because it shows me what letters I tend to type the most. The chart shows what the most common letters are in the English language, so in a different language it would show a different chart of the common letters from that language, such as x in Mandarin being much more common that it is in English.
 #### Polyalphabetic Cipher
 A polyalphabetic cipher uses a flatter distribution of letters, or a lighter fingerprint. This cipher is based on substitution, and uses a secret shift word to allow for only the parties that have the word to decipher it.
 #### Polyalphabetic Example
@@ -60,5 +60,5 @@ The phrase “good morning” using the shift word “peanut” turns in to the 
 #### Brute-Force
 A brute-force attack tries every possible decryption key for a cipher. A cryptoanalyst is able to guess one key, decrypt the cipher text with that key, and then move on to the next key if they haven’t found the secret message. These type of attacks use trial and error to crack codes by testing a wide variety of combinations until they find the right one.
 ## Conclusion
-Include your professional conclusion here...
+In conclusion, cybersecurity is a very complex process that has many details that should not be overlooked or ignored. Topologies, confidentiality, availability, authenication, and access control are just a few of the many components that are needed for the success of a device. The one thing that was difficult for me to grasp was the cryptography, especially the different codes and ciphers. I can't even imagine how hard it must to be crack one of these types of codes, because of how tough it was for me to even understand it. However, it was interesting to learn the history and to try the ciphers out for myself. For now, this introduction to cybersecurity was definitely eye-opening and taught me a great deal.
 
