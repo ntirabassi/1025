@@ -1,7 +1,7 @@
 ## Your Name / Date
 Natalie Tirabassi / 11/06/21
 ## Executive Summary 
-The lab allowed me to go more in depth into the structure of the Internet and how it is organized and functions. Internet protocol addresses are important to every device that connects to the internet, and allows for data to be transferred between devices. However, it is important to have secure protocol and a secure web browers, and I was able to learn about the risks that could happen of my browser wasn't secured or if I was using a sketchy website. I was also able to design mock webpage through HTML, and it was exciting to something that is just letters and symbols as a real page on the internet. Finally, I learned all about the components of a URL, and how each of its important parts help the computer navigate to that specific page.
+This lab allowed me to go more in depth into the structure of the Internet and how it is organized and functions. Internet protocol addresses are important to every device that connects to the internet, and allows for data to be transferred between devices. However, it is important to have secure protocol and a secure web browers, and I was able to learn about the risks that could happen of my browser wasn't secured or if I was using a sketchy website. I was also able to design mock webpage through HTML, and it was exciting to something that is just letters and symbols as a real page on the internet. Finally, I learned all about the components of a URL, and how each of its important parts help the computer navigate to that specific page.
 
 ## Internet Architecture
 ### Internet Protocol
