@@ -1,7 +1,7 @@
 ## Your Name / Date
 Natalie Tirabassi / 11/06/21
 ## Executive Summary 
-Include your executive summary here...
+The lab allowed me to go more in depth into the structure of the Internet and how it is organized and functions. Internet protocol addresses are important to every device that connects to the internet, and allows for data to be transferred between devices. However, it is important to have secure protocol and a secure web browers, and I was able to learn about the risks that could happen of my browser wasn't secured or if I was using a sketchy website. I was also able to design mock webpage through HTML, and it was exciting to something that is just letters and symbols as a real page on the internet. Finally, I learned all about the components of a URL, and how each of its important parts help the computer navigate to that specific page.
 
 ## Internet Architecture
 ### Internet Protocol
@@ -51,4 +51,4 @@ The default page is when no file path is provided, only a domain name. The brows
 Some URLs include a string of characters after the path called the parameters. This is the result of a search, and can confusing, but it is critical information to the server.
 Finally, the anchor loads a specific location on a page. It usually begins with a hashtags and is used to direct your browser to a specific part of a very long page, like a bookmark.
 ## Conclusion
-Include your conclusion here...
+In conclusion, communication on the Internet is not as simple as it seems. Without safe and secure protocols, data could easily be stolen or tracked. It is important to always make sure to have a secure web browsers and to stay away from sites that are not protected. It was also interesting to learn about Tim-Berners Lee and the World Wide Web Consortium, which develops the guidelines and tools for safe internet access. This lab showed me the different components that go into ensuring that users get the best and safest experience from the Web, and now I will always make sure to be conscious of my internet browsing to protect my data.
